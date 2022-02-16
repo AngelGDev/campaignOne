@@ -1,0 +1,80 @@
+SHIP NOTES
+
+ships have stats, sizes, cargo capacity, people capacity
+travel pace
+
+
+
+
+
+ENCOUNTERS AT SEA
+
+LVL 2
+5 Harpies
+
+--- 5 HARPY ---
+
+AC 11
+HP 38 (7d8 + 7) 33, 36
+SPEED 20 ft / fly 40 ft
+PROFICIENCY +2
+LANGUAGE common
+
+STR +1
+DEX +1 
+CON +1
+INT -2
+WIS +0
+CHA +1
+
+MAKES 2 ATTACKS CLAWS + CLUB
+
+CLAW +3 to hit, 2d4 + 1 slash
+CLUB +3 to hit, 1d4 + 1 bludgeoning
+
+SONG 300ft range, DC 11 Wisdom save, charm(can save at end of turn, before doing something dangerous, after taking damage besides charming harpy. Harpy continues singing with a bonus action. 
+*A target that successfully saves is immune to this harpy's song for the next 24 hours
+
+
+--- 5 GIANT OCTOPUS 2x2 size ---
+
+AC 11
+HP 52 (8d10 + 8)
+SPEED 10 ft / swim 60 ft
+
+STR +3
+DEX +1
+CON +1
+INT -3
+WIS +0
+CHA -3
+
+Perception +4
+Stealth +5
+
+Darkvision 60 ft
+
+Advantage on stealth underwater
+Can hold breath out of water for 1 hour
+
+TENTACLES +5 hit, 15 ft range, 2d6 + 3 bludgeoning
+*if target is a creature, it is grappled DC 16, target is restrained, can't use tentacles on another target
+
+IN CLOUD 20 ft radius ink underwater, heavily obscured 1 minute, can dash after
+
+
+
+
+POTENTIALS
+
+
+MERFOLK
+SAHUAGIN + SHARKS
+
+LVL 3
+
+CHUUL
+WATER ELEMENTAL
+SAHUAGIN BARON
+
+LVL 4 PLESIOSAURUS

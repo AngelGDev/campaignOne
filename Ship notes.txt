@@ -1,0 +1,140 @@
+ORQUIDEA
+
+str +2
+dex -1
+con +1
+
+40 ft x 15 ft 
+3 miles per hour, 72 per day
+
+HULL/CASCO
+
+AC 13
+HP 80 (minimo damauge 8, o no recibe damauge)
+
+HELM/TIMON
+
+AC 9
+HP 40
+
+90 degree turn, if destroyed, ship can't turn (unless...)
+
+OARS/REMOS
+
+AC 9
+HP 80 
+SPEED 20ft, -5 ft per 20 dmg taken
+
+SAILS/VELAS
+
+AC 9
+HP 40
+SPEED 25ft, 15ft into wind, 35ft with wind
+
+
+LIGHT BALLISTA
+
+AC 12
+HP 40
+
++3 to hit, range 100/400 ft, hit 2d10 piercing
+
+
+
+Mast 20 ft, 2 sails "triangle" shaped
+
+4 10ft long oars 
+
+front bow proa, back stren popa, left port babor, right starboard estribor
+
+tiller caña de madera de la vela de atras
+timon derecha, tiller caña izquierda
+
+cubierta es el suelo
+
+tiene 1 linterna por cubierta (2) que dan bright light
+
+orilla del barco cuenta como half o 3/4 cover dependiendo del tamaño
+
+Type: Vehicle (Water) Cost: 2000 gp Weight: --
+
+If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+
+Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.
+
+
+COMBAT
+
+Critical hits on the ship
+
+D10 Roll 	Effect
+1 	Fire!
+2 	Ship Shaken!
+3 	Hull Holed!
+4 	1d4 Speed loss for 1d6 tactical turns
+5 	Random Ship Weapon Damaged
+6 	Exterior crew Damage!
+7 	Interior crew Damage!
+8 	1d6 Maneuverability loss for 1d6 tactical turns
+9 	Ship Shaken!
+10 	Exterior crew Damage!
+
+
+Fire!- A fire starts somewhere inside of or on the ship, determined by the DM.  If a fire is unable to start for some reason then roll again.
+
+Ship Shaken- All crewman not otherwise secured (Helmsman is considered secured) must make a DC 14 Dexterity saving throw or be knocked prone and dealt 2d6 falling damage.  On a critical failure a crewman on the outside of the ship or in an area with an open hull is thrown overboard.
+
+Hull Holed- The attack punches a sizable hole in the ship. DM decides location unless targeted by a ramming maneuver.  If a Tiny ship suffers a Hull Holed Critical Hit it's internal structure is destroyed and the ship starts to break apart.  A ship can survive one Hull Holed Critical Hit per size category above Tiny before being torn apart.
+
+Speed Loss- The ship loses the specified amount of speed for 1d6 Tactical Turns (min 1). If the ship is already at Speed 1, then any remaining balance should be subtracted from Maneuverability.
+
+Random ship weapon damaged- A randomly chosen ship weapon (Siege or Spelltech) is damaged and inoperable until repaired. Duration of repair is 1d4 Tactical Turns and requires a proficient crew member to perform.  Any crew on the weapon is unharmed.  If no weapons exist on-board the ship, roll again.
+
+Exterior crew Damage- One creature on the exterior of the ship is struck suffering either the same damage as the ship. Choose the target randomly from all exterior crew. All creatures within 5ft of that individual must make a DC 10 Dexterity saving throw or suffer the same damage.  If a ship has no exterior crew then roll again.
+
+Interior crew Damage- Same as an Exterior crew Damage Critical Hit, but everyone inside is a potential target, including prisoners and Helmsman. This is a result not of a direct weapon hit so much as shattered parts of the ship, shrapnel, and the bouncing around during combat.
+
+Maneuverability Loss- The ship loses the specified amount of maneuverability for 1d6 Tactical Turns (min 0). If the ship is already at Maneuverability 0, then any remaining balance should be subtracted from Speed (min 1).
+
+
+
+
+ship has a turn in combat
+rolls for initiative +- DEX & quality score
+
+
+
+ROLES IN COMBAT
+
+CAPTAIN
+decides what to do in the ship's turn
+2 actions from the following, if action involves a roll, captain gives proficency modifier if proficient in naval vehicle 
+
+Move: with sails or oars depending on where other players or themselves are situated, helmsman or sub allows ship to turn
+
+Attack with ballista: player in ballista gets 1 action with the ballista. Fire, Reload, or Aim. If more than one player in ballista, this still only gives a single action
+
+*the captain can fill in positions on the ship if other crew members are otherwise incapacitaded, if doing this, captain can only move ship on the ship's turn
+
+FIRST MATE/PRIMER OFICIAL/OFICIAL EJECUTIVO
+takes over captain if they are incapacitated, no proficiency bonus
+
+
+BOATSWAIN/CONTRAMAESTRE
+engineer, ship repairs, ship weapon usage
+
+
+QUATERMASTER
+all things navigation, helmsman 
+
+
+COOK
+
+
+QUALITY SCORE, +4 TO START, RANGES FROM -10 TO +10
+
+every day with QS at 0 or below, captain must make CHA check +- QS (persuasion or intimidation) 
+
+>9, nothing happens
+1-9, quality score -1
+<0, mutiny

@@ -1,0 +1,129 @@
+allyana brom
+donna caesar
+camina eliggos
+naomi erninand
+claire xander
+chrisjen joao
+ellen ricco
+sarah naren
+dominique wes
+nadine filip
+michio bull
+jennete deckard
+quaid duncan
+thrace flynn
+ade cameron
+caitlin caskin
+lydia timothy
+carol anton
+shoreh arjun
+frankie connor
+teresa coop
+oksana paolo
+annette charanpal
+bobbie winston
+elvi fayez
+joan dallas
+helen ash
+rebecca dwayne
+colette william 
+lucia amos
+
+
+
+what do the "baddies" want? try to avoid black & white morality, except maybe beasts and demons etc
+continent? provinces? kingdoms? empires? alliances? how many? 3? 4?
+rebellions? oppression? rulers?
+local races in the continent: humans, dwarves, halflings, orcs, demon, 
+3, 4 towns per region, maybe 5 on the bigger ones
+uncharted waters? unclaimed lands?  
+
+Bara Geon
+
+Auberon
+
+salvaje de simbatimba
+
+			str    dex    con    int    wis    cha
+trujillo	11     13	   17    6      16     17  half elf MONK  HP 11 AC 14
+falcorn
+1.80 aang fuego, ojos verdes, 
+
+shaba	    10     14+2   11+1   10     12     16  half elf ROGUE  HP 8  AC 12
+shaba
+190, palido, cortes en la cara, cloak 
+
+gonzo		12     10      15    11     14     12   TIEFLING BARD  HP 10 AC 10
+calabardo 
+1.80, azul palido, cuernos negros, pelo blanco, 
+
+choko       8      13      14    13     10     12  half orc warlock  HP 10  AC 11
+coco
+pelon, cafe, desnutrido, colmnillo izq sin punta, 
+
+vero        14     13      12    13     10     14  earth genasi sorcerer HP 9 AC 14
+barbiegurl	
+
+
+HALF ELF
+- CHA + 2 
+- +1 to two ability scores you choose
+- up to 180 years
+- SPEED 30 ft
+- Darkvision, 60 ft
+- Fey Ancestry, advantage on saves vs charms, cant' be put to sleep by magic
+- Proficiencies, choose 2 skills
+- Languages, Common, Elvish, and 1 more  
+
+TIEFLING
+- CHA + 2 
+- iNT + 1 
+- a bit longer than humans
+- SPEED 30 ft
+- Darkvision, 60 ft
+- Hellish resistance, resist fire damage
+- Infernal Legacy, You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the hellish rebuke spell once per day as a 2nd-level spell. O nce you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for
+these spells
+- Proficiencies, choose 2 skills
+- Languages, Common, Infernal
+
+HALF ORC
+- STR + 2 
+- CON + 1
+- up to 75 years
+- SPEED 30 ft
+- Darkvision, 60 ft
+- Fey Ancestry, advantage on saves vs charms, cant' be put to sleep by magic
+- Proficiencies, intimidation
+- Languages, Common, Orc
+- Relentless Endurance, if you are reduced to 0 hit points but no insta killed, drop to 1 instead, recharges on long rest
+- Savage Attacks, when you crit with a melee weapon, roll one damage die on more time after doubling and add it to the total 
+
+ALL GENASI
+- CON + 2 
+- up to 120 years
+- SPEED 30 ft
+- Languages, Common, Primorial
+
+	> AIR 
+		- DEX + 1
+		- Unending breath, Can hold breath indefinitely while not incapacitated
+		- Mingle with Wind, can cast levitate once per long rest, CON is your spellcasting ability for this spell
+		
+	> EARTH 
+		- STR + 1
+		- Earth Walk, can move across difficult terrain made of earth of stone without spending extra movement 		
+		- Merge with Stone, can cast pass without trace once per long rest, CON is your spellcasting ability for this spell
+		
+	> FIRE 
+		- INT + 1
+		- Darkvision
+		- Fire Resistance
+		- Reach to the Blaze, You know the produce flame cantrip. Once you reach 3rd level, you can cast the burning hands spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. CON is your spellcasting ability for these spells.
+
+	> WATER 
+		- WIS + 1
+		- Acid resistance
+		- Amphibious, can breathe water and air
+		- Swimming speed, 30 ft
+		- Call to the Wave, You know the shape water cantrip. When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. CON is your spellcasting ability for these spells.

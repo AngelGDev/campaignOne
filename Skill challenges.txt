@@ -1,0 +1,35 @@
+Aiding a skill check
+
+Player A rolls a skill check
+Player B rolls aid DC 10. On success add +2 
+Player C rolls aid DC 10. On success add +2
+etc
+
+
+
+Skill challenge/test
+
+kind of like interactive cutscenes. narrative/action/tension that doesnt work well with grid combat
+chase scenes, escape scenes,  
+
+everyone makes skill checks, aiding possible
+
+METHOD
+
+track successes vs failures
+number of successes vs 3 failures
+5 successes vs 3 failure for a moderate challenge
+accumulate 3 failures, group fails (fail to escape, get thrown into the water)
+acrobatics or athletics when performing physical feats
+nature to find wind, heat, weather etc
+tell players its a "minigame" and explain win conditions
+give 2 skills that could absolutely help (survival to retrace steps, insight to find shortcuts, athletics to make a long jump)
+basically role play your character's skills, an attempt to capture a dramatic action sequence
+you have to be proficient to make a test
+once you make an attempt with one skill, you can't repeat it yourself. other players can use the skill.
+players have to describe how they use said skill to test
+dm describes scuccess or failure in a dramatic way
+write down consequences of failing single test, and entire challenge(damage, environment hazards, exhaustion +1)
+add ways to undop failures, different valid skill from another character
+consider allowing utility, instant spells 
+ 

@@ -1,0 +1,402 @@
+CLASSES & SUBCLASSES
+
+///// ROGUE /////
+
+HP
+- 1d8 
+- 8 + CON modifier at lvl 1
+- 5 + CON modifier per lvl
+
+Proficiencies
+- Armor: light armor
+- Weapons: simple weapons, hand crossbows, longswords, rapiers, shortswords
+- Tools: Thieves' tools  
+- Saves: DEX & INT
+- Skills: 4 from Acrobatics, Athletics, Deception. Insight, Intimidation, Investigation, Perception, Perform ance. Persuasion, Sleight of Hand, and Stealth
+
+Equipment
+- (a) rapier (b) shortsword	
+- (a) a shortbow and quiver of 20 arrows or (b) shortsword
+- (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
+- Leather armor, two daggers, and thieves’ tools
+
+Features
+- Expertise, choose 2 skill proficiencies or 1 skill and thieves' tool. Proficiency is doubled by abilities that used those proficiencies. At lvl 6, you can choose 2 more proficiencies to double (no repeats)
+- Sneak Attack, Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll. Gain extra d6s as you lvl up.
+- lvl 2: Cunning Action, you can take a bonus action on your turn to Dash, Disengage, or Hide
+
+Roguish Archtype grants features lvl 3, 9, 13, & 17
+
+- Thief: hone skill sin lacernous arts, burglarly, cutting purses, criminal life
+	> Fast Hands, you can use bonus action to make a Sleight of Hand check, use thieves' tools to disarm a trap or open a lock, or take Use an Object action
+	> Second-Story Work, climbing no longer costs extra movement, your running jumps increases a # of feet equal to your DEX modifier 
+	> lvl 9: Supreme Sneak, you gain advantage on Stealth checks if you move no more than half your movement
+	
+- Assassin: focus your training in the grim art of death
+	> You gain proficiency with disguise and poisoner's kit
+	> Assassinate, advantage on attack rolls against any creature that hasn't taken a turn in combat yet, hits against surprised enemies are automatic crits
+	> lvl 9: Infiltration Expertise, You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+	
+- Arcane Trickster: enhance their skills with magic, enchantments and illusions
+	> You can cast wizard spells mainly from illusion and enchantments, see table for #s. lvl 3 you get 3 lvl 1 wizard spells, 1 can be from any school, Spells at lvl 8, 14, 20 can be from any school of magic. You know mage hand cantrip and 2 more.
+	> mage hand can be invisible, and perform the following by succeding a sleight of hand vs perception check: 
+		• You can stow one object the hand is holding in a container worn or carried by another creature.
+		• You can retrieve an object in a container w orn or carried by another creature.
+		• You can use thieves’ tools to pick locks and disarm traps at range.
+	> lvl 9: if you are hidden when casting a spell to a creature, the creature has disadvantage on the save
+	
+- Phantom: mythical connection with death itself, become immersed in negative energy
+	> Whispers of the Dead, Echoes of those who have died cling to you. Whenever you finish a short or long rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this feature to choose a different proficiency that you lack
+	> Wails from the Dead, Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the rail's total, as wails of the dead sound around them for a moment. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest
+	> lvl 9: Tokens of the Departed, When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the Trinkets table in the Player's Handbook to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum. You can use them the following ways:
+		• While a soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, for your vitality is enhanced by the life essence within the object.
+		• When you deal Sneak Attack damage on your turn, you can destroy one of your soul trinkets that's on your person and then immediately use Wails from the Grave, without expending a use of that feature.
+		• As an action, you can destroy one of your soul trinkets, no matter where it's located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It's under no obligation to be truthful, and it answers as concisely as possible, eager to be free. The spirit knows only what it knew in life, as determined by the DM.
+
+- Soulknife: strikes and infiltrates with the mind, through barriers both physical and psychic
+	> Psionic Power, You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below. Some powers expend a Psionic Energy die. You regain all expended dice after a long rest. As a bonus action, you can regain a single psi die, once after a short or long rest. Your psi dice get bigger at lvl 5, 11, & 17
+	> Psychic Blades, Whenever you take the Attack action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to ld6 plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage. After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is ld4, instead of ld6
+	> lvl 9: Your Psychic Blades are now an expression of your psi-suffused soul, giving you more powers that use your Psionic Energy dice.
+	
+- Inquisitive: roots out secrets, masterful detective
+- Mastermind: master tactician, manipulates others
+- Scout: combines stealth with survival
+- Squashbuckler: delivers deadly strikes with speed and swag
+
+- lvl 5: Uncanny Dodge, you can use reaction to halve dmg from a creature you can see
+- lvl 7: Evasion, you take no dmg when you succeed a dex saving throw to halve dmg, you take half dmg if you fail
+- 
+
+
+
+///// MONK /////
+
+HP
+- 1d8 
+- 8 + CON modifier at lvl 1
+- 5 + CON modifier per lvl
+
+Proficiencies
+- Armor: none
+- Weapons: simple weapons, shortswords
+- Tools: Choose one type of artisan’s tools or one musical instrument  
+- Saves: DEX & STR
+- Skills: C hoose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+
+Equipment
+- (a) a shortsw ord or (b) any simple weapon	
+- (a) a dungeoneer’s pack or (b) an explorer’s pack
+- 10 darts
+
+Features
+- Unarmored Defense, while you are w earing no armor and not wielding a shield, your AC equals 10 + your Dexterity m odifier + your Wisdom modifier.
+- Martial Arts, mastery of com bat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing arm or or wielding a shield:
+	• You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
+	• You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+	• When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
+- lvl 2: Ki, you get 2 Ki points to use in a variety of abilities. You start knowing 3 of these features
+	> Flurry of Blows, Immediately after you take the Attack action on your turn, you can spend 1 ki point to make tw o unarmed strikes as a bonus action.
+	> Patient Defense, You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+	> Step of the Wind, You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+	* some Ki abilities require your target to make a save to resist effects, Ki save DC = 8 + your proficiency bonus + your Wisdom modifier
+- lvl 3: Deflect Missiles, you can use your reaction to deflect or catch the missile w hen you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level. you can use your reaction to
+deflect or catch the missile w hen you are hit by a ranged weapon attack. W hen you do so, the damage you take from the attack is reduced by 1d 10 + your Dexterity modifier + your m onk level.
+- lvl 4: Slow Fall, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five tim es your monk level
+- lvl 5: Extra Attack, Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+- lvl 5: Stunning Strike, Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. W hen you hit another creature
+with a m elee w eapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn
+- lvl 6: Ki-Empowered Strikes, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non magical attacks and damage
+- lvl 7: Evasion, When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you
+instead take no damage if you succeed on the saving throw, and only half damage if you fail
+- lvl 7: Stillness of Mind, you can use your action to end one effect on yourself that is causing you to be charmed or frightened
+
+
+Monastic tradition grants features lvl 3, 6, 11, & 16
+
+- Way of the open hand: ultimate masters of martial arts combat
+	> Whenever you hit with Flurry of Blows, you can impose one of the following effects on the target:
+		• It must succeed on a Dexterity saving throw or be knocked prone.
+		• It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+		• It can’t take reactions until the end of your next turn.
+	> lvl 6: Wholeness of Body, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+
+- Way of Shadow: values stealth and subterfuge
+	> Shadow Arts, you can use 2 ki points to cast darkness, darkvision, pass without trace, or silence without materials components. You gain minor illusion cantrip
+	> lvl 6: you gain the ability to step from one shadow into another. W hen you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn
+
+- Way of the Four Elements: align yourself with creation and bend the four elements
+	> 
+
+
+- Way of Mercy: manipulate life force to aid, or bring a swift end as a mercy
+
+
+- Way of Astral Self: body is an illusion, their ki is their true astral self
+
+
+- Way of the Drunken Master: confounds foes through martial arts swaying like a drunkard
+
+
+- Way of the Kensei: channels ki through a set of mastered weapons
+
+
+- Way of the Sun Soul: transform ki into bursts of fire and searing bolts of light
+
+
+
+
+
+///// WARLOCK /////
+
+HP
+- d8 
+- 8 + con modifier at lvl 1
+- 5 + con modifier per lvl
+
+Proficiencies
+- Armor: light armor 
+- Weapons: simple weapons
+- Tools: none 
+- Saves: WIS & CHA
+- Skills: 2 from Arcana, Deception, History, Intimidation, Nature, and Religion
+
+Equipment
+- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) a component pouch or (b) an arcane focus
+- (a) a scholar’s pack or (b) a dungeoneer’s pack
+- Leather armor, any simple weapon, and two daggers
+
+Features
+
+- Spell slots, all of your spell slots are the same level, consult table to see number and lvl
+- you know two 1st-level spells of your choice and 2 cantrips from the warlock spell list, Additionally, when you gain a level in this class, you can choose one of the w arlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for w hich you have spell slots.
+- Spell save DC, 8 + proficiency + CHA mod
+- Spell attack modifier, proficiency + CHA mod
+- you can use an arcane focus for your warlock spells
+- lvl 2: Eldritch Invocations, you gain 2 eldritch invocations of your choice, you gain more invocations as you lvl up, see table. When you level you may swap an invocation you know for another one of your choice
+- lvl 3: Pact Boon, your patron bestows a gift for your loyal service you gain one of the following
+	> Pact of the Chain, You learn the find familiar spell and can cast it as a ritual. The spell doesn’t count against your number of spells known. When you cast the spell, you can choose one of the norm al forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite. Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own
+	> Pact of the Blade, You can use your action to create a pact w eapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to non magical attacks and damage
+	> Pact of the Tome, your patron gives you a grimoire called Book of Shadows, W hen you gain this feature, choose three cantrips from any class’s spell list. W hile the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known.
+	> Pact of the Talisman, Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+	
+Otherworldy patrons: the patrons warlocks serve are mighty inhabitants of other planes of existence, not gods, but almost godlike. Grants you features lvl 1, 6, 10, 14
+
+- Archfey
+
+- The Fiend 
+
+- Great Old One
+
+- The Celestial
+
+- Hexblade
+
+- The Fathomless
+
+- The Genie
+	
+
+
+///// SORCERER /////
+
+HP
+- d6
+- 6 + con modifier at lvl 1
+- 4 + con modifier per lvl
+
+Proficiencies
+- Armor: none
+- Weapons: daggers, darts, slings, quarterstaffs, light crossbows
+- Tools: none 
+- Saves: CON & CHA
+- Skills: 2 from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+Equipment
+- (a) a light crossbow and 20 bolts or (b) any simple weapon
+- (a) a component pouch or (b) an arcane focus
+- (a) a dungeoneer’s pack or (b) an explorer’s pack
+- Two daggers
+
+Features 
+- you know two 1st-level spells of your choice and 4 cantrips from the sorcerer spell list, Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+- Spell save DC, 8 + proficiency + CHA mod
+- Spell attack modifier, proficiency + CHA mod
+- you can use an arcane focus for your warlock spells
+- lvl 2: Sorcery points, gain 2 sorcery points, gain +1 sorcery points per subsequent lvl
+- lvl 2: Flexible magic, you can transform unexpended sorcery points into one spell slot as a bonus action, you can expend one spell slot and gain a number of sorcery points equal to slot lvl
+- lvl 3: Metamagic you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level
+
+Sorcerous origins (grants features lvl 1, 6, 14, & 18)
+
+- Draconic Bloodline: descendant of an elemental dragon, affinity with that element
+	> Dragon Ancestor, can speak, read and write Draconic, proficiency doubled when interacting with dragons
+	> Draconic Resilience, physical traits of your dragon ancestor emerge on your body, gives you +1 HP per lvl, parts of your skin are covered by thin dragonlike scales, AC 13 + DEX if not wearing armor
+	> lvl 6: Elemental Affinity, add CHA modifier to spells that deal damage associated with your draconic ancestry, at the same time, you can spend 1 sorcery point on the spell to reduce resistance to that damage
+	> lvl 14: Dragon Wings, can sprout pair of dragon wings when not wearing armor, last until dismissed. Movement changes to 30 ft flying
+	
+- Wild Magic: innate magic from wild forces of chaos, raw magic, blessed by a fey, marked by a demon
+	> Wild Magic Surge, your spellcasting can unleash surges of untamed magic, DM calls d20 roll, on a 1, roll % dice and DM table calls the effect
+	> Tides of Chaos, can gain advantage on one attack roll, ability check, or saving throw that recharges with a long rest, after used, you might directly roll % dice for effect
+	> lvl 6: Bend Luck, when another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature’s roll. Can do after roll but before effects occur.
+	> lvl 14: gain modicum control of Wild Magic. When you roll in the table, you can roll twice and choose one number 
+	
+- Divine Soul: Harnesses magic bestowed by a god or divine source
+	> Divine Magic, when a spellcasting feature lets learn or replace sorcerer spells, you can choose from the cleric spell list too, it becomes a sorcerer spell for you. in addition, choose an affinity for the source of your power and you learn a new spell on top of the regular limits. It's a sorcerer spell for you. 
+	> Favored by the Gods, if you fail a save or miss an attack, you can roll 2d4 and add to the total. recharges on short or long rest.
+	> lvl 6: Empowered Healing, whenever an ally 5 ft of you rolls dice to determine the number of HP the spell restores, you can spend 1 sorcery point to reroll any number of those dice once. You can do this once per turn.
+	> lvl 14: Otherwordly Wings, can sprout pair of spectral wings when not wearing armor, last until dismissed. Movement changes to 30 ft flying
+	
+- Shadow Magic: your magic comes from the Shadowfell itself (shadow plane of existence) and casts a strange pall over your appearance. Your soul is imbued with dark energy. 
+	> Eyes of the Dark, you have darkvision at 120ft. at lvl 3 you learn the darkness spell, on top of your # of spells. you can cast it with spell slots or 2 sorcery points. If you use sorcerer points, you can see through the darkness
+	> Strength of the Grave, when damauge reduces you to 0 hit points, you can make CHA save DC 5 + damauge taken. On success you instead drop to 1 HP. Can't use this if taken down by radiant damage or a crit. Recharges on long rest.
+	> lvl 6: Hound of Ill Omen, as a bonus action, you cna spend 3 sorcery points to summon a hound ill omen to target one creature in 120ft. Hound uses Dire Wolf stats, with the followig changes. size medium not large, monstrosity not beast, HP equal to half your lvl, can move through creatures and objects as difficult terrain, at the start of its turn, hound automatically knows target's location. Hound appears 30ft from the target, roll initiative for it, can only attack, can onyl move ina staright line to the target, can only do opportunity attacks on target. When hound is 5 ft from target, target has disadvantage on saving throws against your spells. 5 minutes.
+	> lvl 14: Shadow Walk, while in dim light or darkness, you can teleport 120ft to an empty space you can see that is also dim light or darkness.
+	
+- Storm Sorcery: your innate magic comes from elemental air. 
+	> Wind Speaker, you can speak, read, write Primordial. 
+	> Tempestous Magic, can use bonus action to cause whirling gusts of elemental air. immediately before or after you cast a lvl 1 or higher spell, you can fly up to 10 ft without provoking opportunity attacks.
+	> lvl 6: Heart of the Storm, resistance to lighting and thunder damauge. when you start casting lvl 1 o higher spell that deals lighting or thunder, choose creatures within 10 ft to take lighting or thunder dmg equal to half your sorcerer lvl
+	> lvl 6: Storm Guide, subtly control weather around you. can stop rain in a 20 ft radius, if windy, can choose direction wind blows in a 100ft radius
+	> lvl 14: Storm's Fury, when hit by a melee attack, you can use reaction to deal lighting dmg equal to your sorcerer lvl. attacker makes STR save, on fail, attacker pushed 20ft away from you
+
+- Aberrant Mind: alien influence wrapped around your mind, you can now touch minds with that power
+	> Psionic Spells, you learn additional spells on top of normal limit, see table. when you lvl up, you can replace one of these extra spells with a divination or enchantment of the same lvl from the sorcerer, wizard, or warlock spell. 
+	> Telephatic Speech, as a bonus action, choose one creature 30ft from you, you and the chosen creature can speak telepathically within CHA modifier + 1 miles. Lasts for your sorcerer lvl number of minutes.
+	> lvl 6: Psionic Sorcery, you can cast lvl 1 and higher spells as normal or with a # of sorcery points equal to the spell's lvl. if you use sorcery points, ir requires no verbal or somatic components, and if spell doesn't consume materials, no materials either. 
+	> lvl 6: Psychic Defenses, resistance to psychic dmg, advantage against charms or fears
+	> lvl 14: Revelation in Flesh, unleash aberranr truth within you. Bonus action, spend 1 or more sorcery points to transform your body for 10 minutes, for each sorcery point spent, you choose one of the following
+		~ see invisible creatures within 60ft, eyes turn black or into sensory tendrils
+		~ hover to change movement to flying, skin glistens with mucus or shines
+		~ gain swimming speed equal to twice your walking speed, and you can breathe underwater. Gills grow from your neck or from behind your ears, fingers become webbed, or grow cilia that extend through clothes
+		~ your body and equipment becomes slimy and pliable, you can move through any space as narrow as 1 inch and you can spend 5ft of movement to escape from non magical restraints or grapples
+		
+- Clockwork soul: cosmic force of order imbued you with magic, a plane of existence shaped by clockwork efficiency
+	> Clockwork Magic, you learn additional spells on top of your normal limit, they count as sorcerer spells, see table. when you lvl up you may replace one of these spells with an abjuration or transmutation spell of the same lvl from sorcerer, warlock or wizard list. In addition choose a manifestation (swag) of order from the table of how your connection manifests   
+	> Restore balance, when a creature within 60 ft is about to roll advantage or disadvantage, you can use your reaction to prevent advantage or disadvantage. Can use a # of times equal to proficiency bonus. regain all charges after long rest.
+	> lvl 6: Bastion of Law, as an action, spend 1 to 5 sorcery points to create a magical ward around yourslef or another creature within 30 ft. The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+	> lvl 14: Trance of Order, You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10. Recharges after long rest, or spend 5 sorcery points for every extra cast after first. 
+	
+	
+
+
+///// BARD /////
+
+HP
+- 8 + CON modifier at lvl 1
+- 5 + CON modifier per lvl
+
+Proficiencies
+- Armor: light armor
+- Weapons: simple weapons, hand crossbows, longswords, rapiers, shortswords
+- Tools: three musical instruments of choice
+- Saves: DEX & CHA
+- Skills: Choose any 3
+
+Equipment
+- (a) a rapier, (b) a longsword, or (c) any simple weapon 
+- (a) a diplomat’s pack or (b) an entertainer's pack 
+- (a) a lute or (b) any other musical instrument
+- Leather arm or and a dagger
+
+Features
+- you know 4 1st-level spells of your choice and 2 cantrips from the bard spell list, Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+- Spell save DC, 8 + proficiency + CHA mod
+- Spell attack modifier, proficiency + CHA mod
+- you can use an instrument as a focus for your bard spells
+- You can cast any bard spell you know as a ritual if it has the ritual tag
+- Bardic inspiration, can inspire others with words or music, use bonus action to choose a creature, not yourself, within 60 ft who can hear you, creature gets one bardic inspiration die, 1d6. Once within the next 10 minutes, the creature can roll the die and add the number to one ability check, attack roll, or saving throw. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Can only have one die. You can use this a number equal to your CHA modifier, recharges with long rest. Die changes to d8 at lvl 5, d10 at lvl 10, d12 at lvl 15
+- lvl 2: Jack of all trades, you can add half proficiency to any ability check you are not proficient in
+- lvl 2: Song of Rest, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures w ho can hear your perform ance regain hit points at the end of the short rest, each of those creatures regains an extra
+1d6 hit points. The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d 10 at 13th level, and to 1d 12 at 17th level.
+- lvl 3: Expertise, choose 2 of your skill proficiencies, proficiency is doubled for any abilty check with those 2 skills. lvl 10 lets you choose 2 more
+- lvl 3: Bard college, see below 
+- lvl 5: Font of Inspiration, you regain all bardic inspiration uses with a short or long rest
+- lvl 6: Countercharm, As an action, you can start a perform ance that lasts until the end of your next turn. During that time, you and any
+friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The perform ance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+
+Bard Colleges, grants features lvl 3, 6, 14
+
+- of Lore
+
+
+- of Valor
+
+
+- of Glamour 
+
+
+- of Swords
+
+
+- of Whispers
+
+
+- of Creation
+
+
+///// FIGHTER GUNSLINGER ///// 
+
+HP
+- 10 + CON modifier at lvl 1
+- 6 + CON modifier per lvl
+
+Proficiencies
+- Armor: light & medium armor
+- Weapons: simple weapons, firearms
+- Tools: tinker's tools 
+- Saves: DEX & CON
+- Skills: 2 from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival
+
+Equipment
+- leather armor, palm pistol, 30 bullets 
+- 1 light crossbow, 20 bolts 
+- 1 shortsword & 1 dagger 
+- dungeoneer's or explorer's pack
+- tinker's tools
+
+Fighting style 
+- Archery, +2 bonus on attack roll
+- Defense, +1 AC when wearing armor
+
+Gunsmith
+- You may use Tinker's tools to craft ammunition at half the cost, repair damaged firearms, or even draft and create new ones (DM’s discretion). Some extremely experimental and intricate firearms are only available through crafting.
+
+Firearm Properties
+Firearms are a new and volatile technology, and as such bring their own unique set of weapon properties. Some properties are followed by a number, and this number signifies an element of that property (outlined below). These properties replace the optional ones presented in the Dungeon Master’s Guide. Firearms are ranged weapons.
+
+Reload. The weapon can be fired a number of times equal to its Reload score before you must spend 1 attack or 1 action to reload. You must have one free hand to reload a firearm.
+
+Misfire. Whenever you make an attack roll with a firearm, and the dice roll is equal to or lower than the weapon’s Misfire score, the weapon misfires. The attack misses, and the weapon cannot be used again until you spend an action to try and repair it. To repair your firearm, you must make a successful Tinker’s Tools check (DC equal to 8 + misfire score). If your check fails, the weapon is broken and must be mended out of combat at a quarter of the cost of the firearm. Creatures who use a firearm without being proficient increase the weapon’s misfire score by 1.
+
+Explosive. Upon a hit, everything within 5 ft of the target must make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier) or suffer 1d8 fire damage. If the weapon misses, the ammunition fails to detonate, or bounces away harmlessly before doing so.
+Ammunition
+
+All firearms require ammunition to make an attack, and due to their rare nature, ammunition may be near impossible to find or purchase. However, if materials are gathered, you can craft ammunition yourself using your Tinker’s Tools at half the cost. Each firearm uses its own unique ammunition and is generally sold or crafted in batches listed below next to the price.
+
+lvl 2: Action surge, on your turn, you push yourself over your limits, you can take an additional action on top of regular action and possible bonus action. recharges on short or long rest
+
+lvl 3: Adept Marksman, you learn to perform powerful trick shots to disable or damage your opponents using firearms
+- Trick shots, you learn 2 trick shots of your choice. you get an additional shot at 7, 10, 15 & 18. Each time you learn a new trick shot, you can also replace one trick shot you know with a different one.
+- Grit, you gain a number of grit points equal to your Wisdom modifier (minimum of 1). You regain 1 expended grit point each time you roll a 20 on the d20 roll for an attack with a firearm, or deal a killing blow with a firearm to a creature of significant threat (DM’s discretion). You regain all expended grit points after a short or long rest.
+- some trick shots require targets to make a save, DC is 8 + proficiency bonus + DEX mod
+	> Bullying shot, You can use the powerful blast and thundering sound of your firearm to shake the resolve of a creature. You can expend one grit point while making a Charisma (Intimidation) check to gain advantage on the roll.
+	> Dazing shot, When you make a firearm attack against a creature, you can expend one grit point to attempt to dizzy your opponent. On a hit, the creature suffers normal damage and must make a Constitution saving throw or suffer disadvantage on attacks until the end of their next turn
+	> Deadeye shot, When you make a firearm attack against a creature, you can expend one grit point to gain advantage on the attack roll.
+	> Disarming shot, When you make a firearm attack against a creature, you can expend one grit point to attempt to shoot an object from their hands. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or drop 1 held object of your choice and have that object be pushed 10 feet away from you.
+	> Forceful shot, When you make a firearm attack against a creature, you can expend one grit point to attempt to trip them up and force them back. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw or be pushed 15 feet away from you.
+	> Piercing shot, When you make a firearm attack against a creature, you can expend one grit point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm’s misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
+	> Violent shot, When you make a firearm attack against a creature, you can expend one or more grit points to enhance the volatility of the attack. For each grit point expended, the attack gains a +2 to the firearm’s misfire score. If the attack hits, you can roll one additional weapon damage die per grit point spent when determining the damage.
+	> Winging shot, When you make a firearm attack against a creature, you can expend one grit point to attempt to topple a moving target. On a hit, the creature suffers normal damage and must make a Strength saving throw or be knocked prone.
+
+lvl 5: Extra attack, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+
+lvl 7: Quickdraw, you can add proficiency bonus to initiative, you can also stow a firearm, then draw another as a single object interaction in your turn
+
+lvl 10: Rapid Repair, you learn how to quickly attempt to fix a jammed gun. You can spend a grit point to attempt to repair a misfired (but not broken) firearm as a bonus action.
+
+lvl 15: Lighting Reload, you can reload any firearm as a bonus action.
+
+lvl 18: Vicious Intent, your firearm attacks score a critical hit on a roll of 19-20, and you regain a grit point on a roll of 19 or 20 on a d20 attack roll.
+
+lvl 18: Hemorrhaging Critical, whenever you score a critical hit on an attack with a firearm, the target additionally suffers half of the damage from the attack at the end of its next turn.

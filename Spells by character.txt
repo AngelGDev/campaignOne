@@ -1,0 +1,31 @@
+SPELLS BY CHARACTER
+
+
+CALEC
+
+
+
+BARBIGURL
+
+
+
+COCO
+
+
+
+CALAB
+
+0
+- mage hand
+- vicious mockery 
+- thaumaturgy *
+
+1
+- charm person
+- cure wounds
+- healing word 
+- heroism
+- sleep 
+
+
+* extra racial spell
