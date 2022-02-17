@@ -1,0 +1,117 @@
+PC INFO
+- max HP
+- AC
+- Passive perception + insight
+- Worst saves
+
+SHIP INFO
+- max HP
+- AC
+- dmg threshold
+- Crew members XX/YY
+- Passenger max (includes crew e.g. crew 1/2, pass 2, only 2 creatures can be in)
+
+
+> CREW ACTIONS
+	- Sail: DC 10 str (water vehicles), give ship speed unit, half on failure
+	- Helmsman: required if noted in ship stats, otherwise needed to make checks for precise manoeuvers, str or dex water vehicles
+	- Operate: use any ship object not related to sailing or helming, manning weapons is main use 
+	- Command: DC 10 cha, success adds +2 to ship initative
+	
+CONDITIONS
+- Blinded
+	> auto fail sight checks
+	> attack rolls against have advantage, own attacks disadvantage
+- Charmed
+	> cant attack, target or harm charmer
+	> charmer has advantage on social interactions with creature
+- Deafened
+	> auto fail hearing checks
+- Frightened
+	> disadvantage on checks and attacks while source is in LOS 
+	> cant willingly move closer to source
+- Grappled
+	> speed becomes 0
+	> may be able to attack depending on grapple
+- Incapacitated
+	> cant take actions or reactions
+- Invisible
+	> impossible to see, heavily obscured for hiding, can be detected by noise or tracks
+	> attacks rolls agaisnt have disadvantage, own attacks advantage
+- Paralyzed
+	> incapacitated, cant speak or move
+	> auto fail str and dex checks
+	> attack rolls against have advantage
+	> any melee attack within 5ft is auto crit
+- Petrified
+	> transformed into stone, weight increases x10, ceases aging
+	> incapacitated, unaware of surroundings
+	> attacks againts have advantage
+	> auto fail str and dex checks
+	> resistance to all dmg
+	> immune to poison and disease, effects active before are paused, not healed
+- Exhaustion
+	> lvl 1, disadvantage on checks
+	> lvl 2, speed halved
+	> lvl 3, disadvantage on attacks and saves
+	> lvl 4, hp max halved
+	> lvl 5, speed 0 
+	> lvl 6, death 
+- Poisoned
+	> disadvantage on attacks and checks
+- Prone
+	> disadvantage on attacks, melee attacks against have advantage, ranged disadvantage
+- Restrained
+	> speed 0
+	> attacks against have advantage, own attacks disadvantage
+	> disadvantage on dex saves
+- Stunned
+	> incapacitated, can barely speak
+	> auto fail str and dex saves
+	> attacks against have advantage
+- Unconscious
+	> incapacitated
+	> drops whatever theyre holding and falls prone
+	> auto fail str and dex saves
+	> melee attacks within 5ft auto crit
+	
+* Grappling
+- can use attack action to make special melee attack
+- target must be no more than one size larger than you
+- needs one free hand
+- contest attackers Athletics vs targets Athletics or Acrobatics
+- can attempt escape with an action, contest
+- can drag grappled creatures for half speed, unless 2 sizes smaller
+- shoving is the same, but pushes back or down instead
+
+TRAVEL
+
+- can travel 8 hours at forced march pace per day. 
+- each additional hour beyond 8, must make a CON save DC 10 + 1 for each hour over 8. 
+- on fail, gain one lvl of exhaustion
+* vehicles, limited to speed of vessel, each creature can travel for 16 hours before tiring, and vehicle may even travel for 24 hours if enough crew is available
+
+RESTING
+
+- Short rest
+	> at least 1 hour long
+	> do nothing but eat, drink, read, tend wounds
+	> can spend one or more hit dice and heal the rolled amount + CONmod 
+	
+- Long rest
+	> extended downtime, at least 8 hours
+	> sleep or perform light activity like reading, talking, eating or standing watch for most 2 hours
+	> if rest is interrupted for more than 1 hour, must restart to gain benefits
+	> regain all lost HP
+	> regain half max hit dice
+	> can only have 1 per day
+	> must have at least 1 hp to heal
+	
+	
+LIGHT LEVELS 
+
+- Lightly obscured, dim light, patchy fog, moderate foliage
+	> disadvantage on sight perception
+
+- Heavily obscured, darkness, opaque fog, dense foliage
+	> blinded condition
