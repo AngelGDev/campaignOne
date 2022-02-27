@@ -4,6 +4,96 @@ PC INFO
 - Passive perception + insight
 - Worst saves
 
+***** Txa'Bah *****
+- max HP: 15
+- AC: 13
+- Passive perception: 13
+- Passive insight: 11
+- Worst saves: INT & STR
+
+***** Bar'Bee *****
+- max HP: 14
+- AC: 12
+- Passive perception: 10
+- Passive insight: 12
+- Worst saves: WIS
+
+***** Calec *****
+- max HP: 12
+- AC: 11
+- Passive perception: 11
+- Passive insight: 13
+- Worst saves: INT & STR
+
+***** Charac *****
+- max HP: 16
+- AC: 14
+- Passive perception: 14
+- Passive insight: 12
+- Worst saves: STR & CON
+
+***** Calab *****
+- max HP: 17
+- AC: 11
+- Passive perception: 13
+- Passive insight: 13
+- Worst saves: STR & DEX
+
+
+SHIP ROLES
+
+
+Capitan, autoridad de la nave en combate, negocia contratos, cara de la nave
+- Barco: proficiencia para cualquier acción de tripulación (Crew Actions). Si no usa crew action, esta listo para ordenar(y mejorar) una seccion de la tripulacion, sumando su proficiencia a esas acciones
+	> Movimiento: bonus a NAVEGAR en cualquier situacion o bonus a TIMON en aguas dificiles o para maniobras precisas
+	> Operar arma(s): bonus a los attack rolls de las armas de la nave.
+
+- Especial: 1 vez por dia puede ordenar a los demas oficiales a hacer un ataque melee, rango, o castear un cantrip ofensivo contra un enemigo a 15 ft o menos 
+
+Primer oficial, segundo al mando, 
+- Barco: proficiencia para 2 de las siguientes. NAVEGAR, TIMON, OPERAR, COORDINAR. Puede cambiar su acción para apoyar una acción de tripulación, DC 10 STR/DEX/CHA, dando ventaja a ese check o ataque.
+
+- Especial: 1 vez por dia puede cambiar el orden de 2 oficiales en la iniciativa.
+
+Cabo, encargado en uso y mantenimiento de armas y velas
+- Barco: proficiencia para REPARAR velas y armas. Puede dirigir a otro oficial a reparar velas o armas, sumando la proficiencia del cabo, como bonus action 
+ 
+- Especial: convierte todos los 1s a 2s en los tiros de daño de la tripulación
+ 
+Navegador
+- 
+
+Carpintero
+-
+
+Timonel
+-
+
+Vigia
+-
+
+Cocinero
+-
+ 
+Medico
+-
+
+
+CREW ACTIONS
+
+NAVEGAR - STR DC 10 (water vehicles) usar los remos, extender las velas y mantenerlas en posicion, echar carbon al motor
+
+TIMON - si la nave cuenta con timon, se requiere un miembro de la tripulacion presente para dirigir la nave (avanzar en linea recta, girar)
+
+OPERAR - operar distintos objetos de la nave, principalmente armas. Permite 1 acción de arma en la fase de naves. ballista una accion cargar y apuntar, segunda accion disparar
+
+COORDINAR - CHA DC 10, en exito, +2 a la iniciativa de la nave por 1 ronda. No hay limite de oficiales que puedan hacer esta accion, se suman todas
+
+NO ES CREW ACTION
+
+REPARAR - durante fase de personajes, puede ser parchar agujeros en las velas, atar ropas para sostener partes quebradas, sacar agua de la cubierta, arreglar agujeros en el casco etc. DC 10 STR O INT, eleccion del jugador. proficiencia con carpenter o tinkers tools talvez de bonus. en exito, se puede usar 1 hit dice de la nave y reparar el numero ya sea al casco, o a la parte especifica de la nave
+
+
 SHIP INFO
 - max HP
 - AC
