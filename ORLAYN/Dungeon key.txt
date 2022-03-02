@@ -1,11 +1,20 @@
 Random encounters 
 
-- giant rats
-- giatn lizard
 - poison snake
 - constrictor
-- troglodyte
 - stirge 
+- harpy
+
+
+*needed enemy cards 
+
+troglodyte
+giant lizard
+cocodrile
+poison snake
+stirge
+green slime
+spirit naga*modified (sera un espiritu de spirit naga hue para que no sea TPK) 
 
 
 1. Escaleras de madera: con mucho lodo encima, humedas
@@ -26,4 +35,46 @@ enemigos 2 killer frogs, maybe mas
 
 6. Camara esqueletos, 2' de agua que descienden hasta 6', 2 columnas con musgo le dan soporte a un techo bajo, muchos esqueletos visibles atraves del agua. olor fuerte a muerte y enfermedad
 
-7. 
+7. Hogar de las slime verdes, corredor lleno de lodo, hay 3 slimes verdes en el techo que intentaran sorprender a la party
+
+8. Cuartos de cultistas, 12 criaturas de halflings, half-orcs, 2 half-elves, humanos, 1 enano. hipnotizados para ser guardias del dungeon. ruidos atraeran a todos en 1-4 rondas. hay lamparas y antorchas
+- 8a: abierta, 4 cultistas, lanzas, hachas de piedra, dagas
+- 8b: cerrada, vacia, 4 camas y una pequeña mesa
+- 8c: cerrada, 4 spearmen dormidos. escudos y armas cerca, pero no se pondran la armadura. 
+- 8d: igual a 8c 
+- 8e: tiene una mesa larga con bancas de cada lado, platos y tarros sucios tirados en y alrededor de la mesa. al lado oeste hay un pequeño horno con ventilacion por un agujero en el techo. varias cajas cerradas contienen mas platos, sartenes, tarros botellas de vino bien culero, frijoles secos y manteca
+
+9. Almacen. puerta cerrada, cajas barriles, cajones y racks contienen 10 lanzas, 4 dagas, 1 shortsword. frijoles, harina, papas, aceite, manteca, sal. cajas con 4 puntas de hierro, martillos, 4 palas. 12 antorchas
+
+10. piscina vacia, parte del tunel colapso y dejo entrar agua, se ven algunos pececitos y nada mas fuera de lugar
+
+11. almacen de vino, bien cerrada. cuando toquen la puerta polvo y un poco de tierra caeran del techo. si la forzan, una section grande te tierra caera del tehco haciendo 1-4 dmg a cada uno. hay 15 barriles y botellas de vino y cheve culera para los minions. pero hay 4 barriles con contenido valioso. 2 de cerveza de la triple montaña, 1 vino Ganymede especial, y ultimo con hierba longbottom a la mitad. 
+
+12. 12a y 12b tiene puertas atoradas, estan vacios
+
+13. salon de entrada. 15' de alto, 6 columnas firmes de madera sin adornos, lodo enmedio
+
+14. cuartos de tenientes, aqui encuentran a los seguidores de mas alto nivel del dios reptil. 2 asesinos, 1 fighter, 1 cleric. son los cuartos mas comodos del dungeon. 3 de los 4 residentes estaran, la cleric Misha esta en el segundo nivel en un altar del mal. 
+
+las puertas externas tienen barras pesadas de madera, athletics para romper, dc 15, segundo intento dc 10. si lo rompen al primer intento, los asesinos estaran en 14a y fighter en 14c. si no lo logran, fighter en centro de 14a y assassins flankeando la puerta. 
+-14a: 4 sillas, varias mesitas, ,una chimenea prendida con amdera a un lado, un barril de vino de orlayn casi vacio, 2 tarros en la mesa
+-14b: 2 camas con colchones, 2 sillas, 6 repisas vacias excepto por 2 cloaks de lana tejida. 
+-14c: cama, silla, ganchos enl a pared, uno tiene una cloak de tela. 
+-14d: cerrada, lelva al cuarto de misha. cama suave, escritorio, silla, un cofre bajo la cama. pequeña estatuilla de una serpiente 75g,. el cofre tiene glyph of warding, que paralizara a quien lo abra 3-5 turns. el codigo que lo abre es EXPLICITICA. en el cofre hay una cloak roja y negra, un mazo, y un scroll con 2 cure wounds(1)
+
+15. piscina de cocodrilos, no hay puertas, los pasillos que llevan a este cuarto se acban en el agua. nada profundo a las oirllas, pero llendo al centro tiene profundidad de 4'. lodo en fondo es terreno dificil. olor a moho, agua es relativamente clara y se ven varios peces. 3 cocodrilos en el lodo al noreste que se moveran cuando se perturbe el agua.
+-15a, pequeño barco escondido con capacidad para 10
+
+16. camara arqueada, la puerta esta abierta, marcada con una X quemada. adentro 4 columnas gruesas soportan un techo en arco de 25' de altura, un pasillo de 20' alto y 20' ancho sigue por el sur de esta camara
+en cuandto la harpia del cuarto 17 escuche criaturas entrar, intentara usasr su cancion magica DC 14. si los charmean caminaran hacia el pasillo lleno de lodo 6' de profundo. mientras tanto, la harpia volara a atacar a los miembros no charmeados. 
+
+17. guarida de la harpia, apenas se puede ver desde elpasillo, la camara se parece abstante a la anterior, pero als columnas estan conectadas con piezas de madera rectangulares, 5'-10' del suelo. ha juntado joyeria y emdallones de sus victimas, y estan decorando la madera.  collares, bracaletes, cadenas, 250gp, ruby medallion 800gp, y un collar de adaptacion que parece de 50gp, que te deja respirar normal en cualquier ambiente y ventaja en saves contra gases y vapores, require attunement. 
+
+18. guarida de las boa constrictoras, hay partes con lodo en el corredor, que son dificiles, pero la mayoria es terreno normal, si no se han encontrado a las constrictoras como random encounter, aqui las encontraran, hay una bolsa de cuero rota, ropa desgastada, daga oxidada, enterrado hay 200 gp y 300 sp
+
+19. corredor parecido al anterior, dead end
+
+20. baraca de troglodytas, estos cuartos dan acceso al nivel ifnerior del dungeon, y una guardia permanente de troglodytas ha sido asignada aqui. cada puerta estara reforzada, dc 15
+-20a: 2 trogs, stone battleaxe, 1d8, 1d10 2 handed. alertaran a 20b 20c. si los matan rapido, otros 4 dejaran cerradas las peurtas
+-20b: cuarto grande, vacio
+-20c: otros 3 trogs, 1 es shaman, muchos huesos de pez en el suelo. cada trog tiene una peque;a bolsa de cuero con monedas, total de 6 21g 64sp 
