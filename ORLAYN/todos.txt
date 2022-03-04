@@ -1,0 +1,4 @@
+draw map
+prep lvl 2
+prep boss
+prep magic items
