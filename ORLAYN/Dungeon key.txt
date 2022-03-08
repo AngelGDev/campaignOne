@@ -78,3 +78,20 @@ en cuandto la harpia del cuarto 17 escuche criaturas entrar, intentara usasr su 
 -20a: 2 trogs, stone battleaxe, 1d8, 1d10 2 handed. alertaran a 20b 20c. si los matan rapido, otros 4 dejaran cerradas las peurtas
 -20b: cuarto grande, vacio
 -20c: otros 3 trogs, 1 es shaman, muchos huesos de pez en el suelo. cada trog tiene una peque;a bolsa de cuero con monedas, total de 6 21g 64sp 
+
+
+PART 2
+
+las paredes son irregulares y curveadas. huele peor. 
+
+new random encounters
+
+large spiders
+
+trogs
+
+giant rats
+
+ghouls
+
+21 caverna de lodo
