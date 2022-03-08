@@ -14,7 +14,7 @@ cocodrile
 poison snake
 stirge
 green slime
-spirit naga*modified (sera un espiritu de spirit naga hue para que no sea TPK) 
+spirit naga*modified (sera un espiritu de spirit naga hue para que no sea TPK).
 
 
 1. Escaleras de madera: con mucho lodo encima, humedas
