@@ -1,4 +1,4 @@
-draw map
-prep lvl 2
+3 new characters, prep their stuff
+scale encounters
 prep boss
 prep magic items
