@@ -2,3 +2,5 @@
 scale encounters
 prep boss
 prep magic items
+
+bag of holding and more
