@@ -109,11 +109,13 @@ Si la mitad de las estaciones de navegacion estan ocupadas, pueden elegir amarra
 
 ACCIONES DE TRIPULACIÓN
 
+*** cada accion tiene requerimientos de stats, pero para no obligar a la tripulacion a un rol que no les guste, tambien se puede usar el bonus oficiales de la tripulacion, minimo +1 (+1 a +5)  
+
 Sail
-- DC 10 STR, manejando las velas, remando, echando carbon a un motor. le da movimiento a la nave igua a su spd stat, en fallo le da la mitad.
+- DC 10 STR, manejando las velas, remando, echando carbon a un motor. le da movimiento a la nave igua a su spd stat, en fallo le da la mitad. (water vehicles) 
 
 Timon
-- si no hay nadie en el timon la nave solo se puede mover hacia enfrente o incluso perder el control. no necesitan checks amenos que sea terreno dificl o una maniobra dificil STR o DEX y DC dependiendo de la situacion
+- si no hay nadie en el timon la nave solo se puede mover hacia enfrente o incluso perder el control. no necesitan checks amenos que sea terreno dificl o una maniobra dificil STR o DEX y DC dependiendo de la situacion (water vehicles)
 
 Operar
 - usar un objeto de la nave que no contriubya a la navegacion. lo mas comun es usar armas. 
@@ -122,33 +124,33 @@ Command
 - coordinar la nave, DC 10 CHA y en exito se añade +2 a la iniciativa de la nave, no hay limite de commands en una ronda, stackean
 
 * Repair
-- no es crew action como tal, so es inmediata. parchar agujeros, atando cuerdas, arreglando valvulas, sacando agua de una cubierta. DC 10 de STR o INT dependiendo del jugador y de la accion. exito los deja tirar uno de los Hull Dice de la nave. si el daño fue a una parte de la nave con su propio HP, se puede usar el dado en esa parte. (timon, catapultas, mastil etc) 
+- no es crew action como tal, so es inmediata. parchar agujeros, atando cuerdas, arreglando valvulas, sacando agua de una cubierta. DC 10 de STR o INT dependiendo del jugador y de la accion. exito los deja tirar uno de los Hull Dice de la nave. si el daño fue a una parte de la nave con su propio HP, se puede usar el dado en esa parte. (timon, catapultas, mastil etc) (water vehicles) 
 
 ROLES DE TRIPULACIÓN
 Te daran 2 funciones. Una en barco que sera bonus action, otra en general que puede ser una acción o bonus pasivo
 
 CAPITÁN
-Barco: Bonus action. Coordinando con primer oficial y timonel, decide el movimiento del barco. 
-General: Action. Puedes ordenar a todo el grupo que hagan un melee attack si estan en rango, una vez por día. 
+Barco: Bonus action. Puedes usar COMMAND como bonus action (que stackea con COMMAND regular), o coordinar a otro miembro de la tripulacion en una CREW ACTION, dandole la mitad de tu proficiency en water vehicles en esa ronda.
+General: Action. Durante el combate, puedes ordenar a todo el grupo que hagan un melee attack si estan en rango, una vez por día. 
 
 PRIMER OFICIAL
-Barco: 
-General: Puedes intercambiar el lugar en la iniciativa de 2 miembros del grupo en cada comabte
+Barco: Toma el rol del capitan si esta incapacitado, ausente, o muerto. Puede usar COMMAND como bonus action (que stackea con COMMAND regular) 
+General: Iniciativa. Puedes intercambiar el lugar en la iniciativa de 2 miembros del grupo en cada comabte
 
 CONTRAMAESTRE
 Barco:
 General:
 
 NAVEGADOR
-Barco:
-General:
+Barco: +2 en survival en cosas relacionadas con navegar. Planear la ruta, identificar aguas peligrosas
+General: 
 
 TIMONEL
-Barco:
+Barco: +2 en water vehicles para maniobras dificiles, controlas la embarcacion en aguas peligrosas etc
 General:
 
-ARTILLERO
-Barco:
+ARTILLERO 1 y 2
+Barco: con uno presente operando un arma del barco, se reduce 
 General:
 
 MEDICO
