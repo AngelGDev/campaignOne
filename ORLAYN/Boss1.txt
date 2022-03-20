@@ -1,0 +1,75 @@
+Explicitica Defilus
+AC 17
+HP 87
+Sp 40ft
+
+STR +4, DEX +3, CON +2, INT +3, WIS +2, CHA +3
+
+Saves
+DEX +6, CON +5, WIS +5, CHA +6
+
+Immune to poison, charm
+
+Spell attack bonus +6 
+Spell save DC 15
+
+
+SPELLS
+Cantrips
+mage hand, minor illusion, ray of frost, poison spray
+
+lvl X (Y) x spell lvl, y # of slots
+
+Lvl 1 (4)
+- charm person
+- detect magic
+- sleep
+Lvl 2 (3)
+- detect thoughts
+- hold person
+Lvl 3 (3)
+- lighting bolt
+- water breathing
+Lvl 4 (3)
+- blight
+- dimension door
+Lvl 5 (2)
+- dominate person
+
+BONUS ACTION
+Explicitica will meet the eyes of one party member each round unless the character is avoiding her gaze (disadvantage on attacks). The victim must make a WIS save 
+
+REACTION
+Reaction 1 - Explicitica makes a grapple attack against any player attempting to flank her. Needs another pc to be in front of her beforehand.
+Reaction 2 - primera vez que sea golpeada en melee, suelta veneno, CON save o 1d8 daño 
+
+
+VILLAIN ACTIONS
+Round 1 - "llego la hora mis mascotas" los ojos de Explicitica se encienden con color ambar brillante, arrastrando a Misha, y los otros 2 PCs(dominated, make WIS save when taking dmg and may end spell) 
+Round 2 - "como te atreves a usar magia contra mi?!" y casteara dimension door para aparecer atras o de lado de alguien que uso magia contra ella. 
+Round 3 - "si me destruyen, REGRESARE! Y todo lo que les importe, todo lo que quieran sufrira por ello!" expulsara una brisa de venendo 3x2 frente a ella, CON save o 1d12 poison dmg
+
+
+Misha
+
+AC 12
+HP 17
+Sp 30ft
+
+DC 12
+Spell attack bonus +4
+
+SPELLS
+Cantrips 
+Toll the dead
+lvl1 
+Cure wounds
+lvl2
+silence
+darkness
+
+
+VILLAIN ACTION
+Plegaria - Misha se pone de rodillas, cantando una bendicion para sus aliados, y un maleficio a sus enemigos. CONCENTRACION
+Bless, up to 3 creatures, cuando el blanco hace un ataque o save mientras el spell sigue, puede añadir 1d4.
+Curse, up to 3 creatures, cuando el blanco hace un ataque o save mientras el spell sigue, tiren y resten 1d4

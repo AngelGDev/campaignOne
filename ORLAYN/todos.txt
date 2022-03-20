@@ -1,6 +1,32 @@
-3 new characters, prep their stuff
-scale encounters
-prep boss
-prep magic items
+MAGIC ITEMS
 
-bag of holding and more
+bag of holding
+2ft diametro en al boca, 4 ft profundo 
+hasta 500 libras, no excediendo un volumen de 64ft
+pesa 15 libras
+sacar algo de la bolsa requiere una accion
+
+boots of striding and springing (A)
+velocidad no se reduce encumbered o usando heavy armor. puedes brincar el triple de lo normal, sin pasar el limite de movimiento.
+
+ring of protection +1 (A)
++1 AC y saves
+
+staff of the adder (A, cleric, druid, warlock)
+pueden usar una bonus action para decir la palabra magic y animar la cabeza de serpiente en al punta de la staff por 1 minuto. se puede hacer inanimada con otra bonus action. pueden ahcer un melee attack con la cabeza de serpiente, sumando su proficiency mod. en un golpe, 1d6 daño, y deben lograr un CON save DC dependiendo del caster, max 15, o recibir 3d6 poison dmg. 
+la serpiente tiene AC 15 HP 20, si matan la serpiente animada la staff es destruida
+
+
+
+
+anteriores
+
+cloak of protection (A) 
++1 AC & saves
+
+googles of night (A)
+darkvision, o 60ft si ya tienen
+
+necklace of adaptation (A)
+respirar en cualquier ambiente, ventaja en saves vs gases y vapores
+
