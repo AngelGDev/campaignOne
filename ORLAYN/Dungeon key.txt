@@ -150,19 +150,11 @@ el barco puede llevar 10 personas, tiene un poste largo con el que pueden empuja
 
 TESOROOOOOOO
 
-ven una pila de monedas de oro y plata. algunas botellas e items de cuero semienterrados en la pila. son 2305 piezas de oro, 1307 de plata, un brazalete con joyas de 400 oros, un anillo con un ruby de 800oros.
-
-UNA BAG OF HOLDING 
-BOTAS DE ELFO
-CUERNO DE BURBUJAS
-RING OF PROTECTION
-RING OF FREE ACTION
-
-y 6 pociones en botellas separadas
+ven una pila de monedas de oro y plata. algunas botellas e items de cuero semienterrados en la pila. son 2305 piezas de oro, 1307 de plata, un brazalete con joyas de 400 oros, un anillo con un ruby de 800oros. y 6 pociones en botellas separadas
 
 forma gaseosa, invisibilidad, clairvoyance, philter of love y 2 healing. 
 
-2 tubos de marfil de scrolls estan enterrados en la pila. los 2 estan sellados y estan grabados con decoracion enforma de hojas. estas grabaciones deben acomodarse en un patron prediseñado para abrir los tubos. sha'ba puede tirar dados para abrirlo, DC20, o cualquiera de la parrty puede tirar dado de 100 para intentar acomodar el seguro. 
+2 tubos de marfil de scrolls estan enterrados en la pila. los 2 estan sellados y estan grabados con decoracion enforma de hojas. estas grabaciones deben acomodarse en un patron prediseñado para abrir los tubos. sha'ba puede tirar dados para abrirlo, DC20, o cualquiera de la party puede tirar dado de 100 para intentar acomodar el seguro.
 
 cada uno tiene un scroll, uno para magic users con
 -slow

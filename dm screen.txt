@@ -40,44 +40,6 @@ PC INFO
 - Worst saves: STR & DEX
 
 
-SHIP ROLES
-
-
-Capitan, autoridad de la nave en combate, negocia contratos, cara de la nave
-- Barco: proficiencia para cualquier acción de tripulación (Crew Actions). Si no usa crew action, esta listo para ordenar(y mejorar) una seccion de la tripulacion, sumando su proficiencia a esas acciones
-	> Movimiento: bonus a NAVEGAR en cualquier situacion o bonus a TIMON en aguas dificiles o para maniobras precisas
-	> Operar arma(s): bonus a los attack rolls de las armas de la nave.
-
-- Especial: 1 vez por dia puede ordenar a los demas oficiales a hacer un ataque melee, rango, o castear un cantrip ofensivo contra un enemigo a 15 ft o menos 
-
-Primer oficial, segundo al mando, 
-- Barco: proficiencia para 2 de las siguientes. NAVEGAR, TIMON, OPERAR, COORDINAR. Puede cambiar su acción para apoyar una acción de tripulación, DC 10 STR/DEX/CHA, dando ventaja a ese check o ataque.
-
-- Especial: 1 vez por dia puede cambiar el orden de 2 oficiales en la iniciativa.
-
-Cabo, encargado en uso y mantenimiento de armas y velas
-- Barco: proficiencia para REPARAR velas y armas. Puede dirigir a otro oficial a reparar velas o armas, sumando la proficiencia del cabo, como bonus action 
- 
-- Especial: convierte todos los 1s a 2s en los tiros de daño de la tripulación
- 
-Navegador
-- 
-
-Carpintero
--
-
-Timonel
--
-
-Vigia
--
-
-Cocinero
--
- 
-Medico
--
-
 
 CREW ACTIONS
 
