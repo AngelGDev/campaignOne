@@ -126,52 +126,84 @@ Command
 * Repair
 - no es crew action como tal, so es inmediata. parchar agujeros, atando cuerdas, arreglando valvulas, sacando agua de una cubierta. DC 10 de STR o INT dependiendo del jugador y de la accion. exito los deja tirar uno de los Hull Dice de la nave. si el daño fue a una parte de la nave con su propio HP, se puede usar el dado en esa parte. (timon, catapultas, mastil etc) (water vehicles) 
 
+
+ORQUIDEA 
+AC 15
+Iniciativa + 6
+Tonaje 1/2
+Mediano 15 x 40ft
+72miles/day 
+Spd unit 10ft
+Sail stations 4
+Max spd 40ft 
+
 ROLES DE TRIPULACIÓN
 Te daran 2 funciones. Una en barco que sera bonus action, otra en general que puede ser una acción o bonus pasivo
 
-CAPITÁN
-Barco: Bonus action. Puedes usar COMMAND como bonus action (que stackea con COMMAND regular), o coordinar a otro miembro de la tripulacion en una CREW ACTION, dandole la mitad de tu proficiency en water vehicles en esa ronda.
-General: Action. Durante el combate, puedes ordenar a todo el grupo que hagan un melee attack si estan en rango, una vez por día. 
 
-PRIMER OFICIAL
-Barco: Toma el rol del capitan si esta incapacitado, ausente, o muerto. Puede usar COMMAND como bonus action (que stackea con COMMAND regular) 
-General: Iniciativa. Puedes intercambiar el lugar en la iniciativa de 2 miembros del grupo en cada comabte
+CAPITÁN (R)
+La cara de la tripulación. Lider carismatico o figura intimidante. Decide como usar el movimiento de la nave. Negocia nuevos contratos(quests).
+- Órdenes del capitán: Bonus action. Puedes elegir una criatura(que no sea tu mismo) que te pueda escuchar en un rango de 60ft. La criatura gana advantage en su siguiente ataque, check o save. Número de cargas igual a tu CHA modifier. Recuperas 1 carga cada short o long rest. Recuperas todas las cargas entre contratos/quests/viajes.
 
-CONTRAMAESTRE
-Barco:
-General:
 
-NAVEGADOR
-Barco: +2 en survival en cosas relacionadas con navegar. Planear la ruta, identificar aguas peligrosas
-General: 
+CONTRAMAESTRE (R)
+Segundo al mando. Responsable de la disciplina y balance al Capitán representando la tripulación.
+- A sus posiciones: Puedes intercambiar la posición de 2 oficiales en el orden de iniciativa al inicio de cada combate. 
+*** Si el Capitán está ausente o incapacitado, puedes usar "Órdenes del capitán" con un número de cargas igual a la mitad de tu CHA modifier. Si el Capitán muere en combate, recibe una promoción de campo inmediatamente a Capitán, con la mitad de las cargas hasta la siguiente votación para elegir Capitán. ***
+
+
+NAVEGADOR (R)
+Oficial a cargo de la ruta de navegación. Encargado de mapas e instrumentos necesarios para navegación. Como las cartas nauticas de la era son inexactas(o inexistentes), es un trabajo complicado.
+- Proficiencia con navigator's tools para planear rutas marina y seguir cartas. Puedes sumar tu proficiency a los checks para no perderte en el mar.
+- A toda velocidad: Bonus action. Puedes coordinar la locomoción de la nave. Realiza un CHA check DC 15. Al éxito se duplica la velocidad de la nave hasta el inicio de tu siguiente turno. Esta velocidad no puede sobrepasar la velocidad maxima de la nave. Recarga en un short o long rest.
+
+
+MAESTRE
+Responsable de que la nave este en condiciones de viaje y batalla. Busca materiales para reparaciones en las visitas a tierra.
+- Reparaciones de emergencia: Action. Si el HP de la nave es la mitad o menos, puedes hacer reparaciones de emergencia, reparando 1d6 + STR o INT modifier. Recarga en long rest.
+- Ordenar reparaciones: Action. Coordinas las reparaciones de la embarcacion cuando 1 o mas miembros de la tripulacion usan la REPAIR action. Realiza un CHA check DC 15. Al exito, añade 1d4 + tu nivel a cada repair.
+
 
 TIMONEL
-Barco: +2 en water vehicles para maniobras dificiles, controlas la embarcacion en aguas peligrosas etc
-General:
+Algunas embarcaciones cuentan con algun sistema direccional independiente de la locomoción. Estas naves solo se pueden mover en linea recta, o a veces perder el control, a menos de que alguien este manejando el timon.
+- Maniobras evasivas: Bonus action. Cuando estes manejando la nave cuando tenga velocidad, puedes hacer un DEX check DC 15 para maniobras evasivas. Al lograrlo causas desventaja a todos los ataques contra tu nave hasta el inicio de tu siguiente turno. Recarga en un short o long rest.
 
-ARTILLERO 1 y 2
-Barco: con uno presente operando un arma del barco, se reduce 
-General:
-
-MEDICO
-Barco:
-General:
-
-CARPINTERO
-Barco:
-General:
-
-COCINERO
-Barco:
-General:
 
 VIGIA
-Barco:
-General:
+En turnos de 6 a 8 horas, un miembro de la tripulación se coloca cerca de la cima del mastil para tener mejor visión de los alrededores.
+- Proficiency en perception, si ya cuentas con eso, duplica tu proficiency bonus para perception cuando estes arriba en el mastil.
+- Advantage en perception checks contra criaturas usando stealth cerca de la superficie.
+
+
+CARPINTERO
+Miembro(s) de la tripulación que se enfocan a las reparaciones a corto y largo plazo.
+- +2 hp curada con cada REPAIR action
+- Todavia sirve: Passive. Si una parte de la embarcacion con HP individual (timon, diferentes armas, mastil) es reducida bajo 0 HP, si tu REPAIR action sobrepasa los puntos negativos, recupera la funcion temporalmente con desventaja. Puedes quitar la desventaja con otra REPAIR action.
+
+
+MAESTRO ARTILLERO
+Encargado de las armas de asedio de la embarcacion. 
+- Carguen y apunten: Action. Puedes coordinar la preparacion de las armas de la nave. Realiza un CHA check DC 15. Al exito, si hay al menos 2 operadores en una arma, necesitan solo 1 accion para cargar y apuntar, en vez de 2. Afecta todas las armas con 2 operadores al mismo tiempo. Recarga en long rest. 
+- Maestro combate naval: Si el maestro artillero esta manejando una de las armas, puede cargar y apuntar con 1 accion en vez de 2.  
+
+
+MEDICO
+Quien intenta estabilizar y resucitar miembros de la tripulacion heridos. A veces solo hace sus muertes menos dolorosas.
+- Proficiency en medicine
+- Milagro medico: bonus action. Tocas una criatura e intentas curar daño. La criatura recupera 1d4 + WIS modifier HP. Recarga en short o long rest. 
+
+
+COCINERO
+Encargado de la busqueda y almacenamiento de raciones. Puede crear 
+- Proficiency en cooks utensils y hachas.
+- Puedes cocinar comidas semi magicas, con efectos disminuidos a comparacion de objetos magicos o spells, dependiendo de los ingredientes disponibles. Un intento cuesta el triple de raciones por cada oficial que recibira la comida. Empezando puedes tener un festin mientras viajen o en downtime, DC 15 performance que al exito le da +2 HP temporal a los comensales. En long rest puedes intercambiar tus 2 horas de vigilar por intentar cocinar raciones especiales. Por ejemplo un pan especial que curara 1d4 +1
+
 
 MAESTRO EN ARMAS
-Barco:
-General:
+No necesariamente un marinero, la experiencia que no tiene de marinero la tiene de conocimiento de armas simples y marciales. Experto en el mantenimiento de todo tipo de armas.
+- Proficiencia en smith tools
+- Todo tiro de daño(no al atacar) con armas fisicas que caiga en 1, automaticamente es 2.
+- Cada viaje en barco, o downtime extendido (5 dias o mas), puedes intentar mejorar un arma basica(+0) mas alla de lo normal. Requieres el triple de materiales necesarios para crear el arma desde 0, y haces un check de INT de DC variable. Al exito el arma recibe +1 al ataque y +1 al daño
 
 
 
